@@ -1,0 +1,2 @@
+# MGbot
+MagnaBot
